@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EnergyPulse 2.0
 
 Web-based energy analytics for commercial buildings: consumption analysis, machine-learning
@@ -48,3 +49,6 @@ Hourly data (one row per hour), at least ~6 months for the ML analysis:
 - The bundled dataset is **synthetic** (`data_status = SYNTHETIC_SIMULATED`, fictional building). State this as a limitation in the paper.
 - Cost uses an editable PHP/kWh rate; it is not an official Meralco bill.
 - User acceptability (objective 5) is measured with a questionnaire, outside the software.
+=======
+# EnergyPulse
+>>>>>>> e83065b96bb320d2bb050dac5b7c6e19095b363c
